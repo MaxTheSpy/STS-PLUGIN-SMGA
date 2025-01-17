@@ -1,5 +1,3 @@
-# STS-PLUGIN-SMGA
-
 <div align="center">
 ![Your Logo](https://link-to-your-logo.png)
 <br>
